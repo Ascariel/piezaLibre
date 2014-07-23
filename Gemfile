@@ -1,5 +1,10 @@
 source 'https://rubygems.org'
 ruby '2.1.2'
+gem 'awesome_print'
+#Polymer Stuff
+gem 'polymer-rails'
+gem 'polymer-core-rails'
+
 gem 'rails', '4.1.4'
 gem 'sqlite3'
 gem 'sass-rails', '~> 4.0.3'
